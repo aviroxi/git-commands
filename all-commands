@@ -19,3 +19,6 @@ git branch -d branch-name
 // to update the files into github, you can replace the . with filename, the . will update all the files in github with your current commiting branch. change the branch-name where you want to commit the changes to.
 git add .
 git push origin branch-name
+
+// to commit 
+git commit -m "custom commit msg here"
