@@ -1,6 +1,13 @@
 // after installing git into your system. search git and open the git bash shell and these commands and make your life easier.
 // replace branch-name with your preferred branch name
 
+//to initialize git on non-git folder in local machine
+git init
+git add .
+git commit -m "first commit"
+//now you can see the main branch with this command
+git branch
+
 // to create a new git branch. 
 git branch branch-name
 
